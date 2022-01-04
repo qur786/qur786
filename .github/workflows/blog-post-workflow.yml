@@ -7,10 +7,10 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest twitter posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rss.app/feeds/QdAnOQhiTDfJKQtm.xml"
+          feed_list: "https://twitter.com/qur67ban"
