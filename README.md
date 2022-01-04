@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=vue)
 
-# Blog Posts
+## See My latest tweets <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px">
 <!-- BLOG-POST-LIST:START -->
 - [@elonmusk: Raptor 2 now operates routinely at 300 bar main chamber pressure](https://twitter.com/elonmusk/status/1478125263233990657)
 - [@elonmusk:](https://twitter.com/elonmusk/status/1477775713172402176)
