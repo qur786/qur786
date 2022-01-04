@@ -55,5 +55,10 @@ Here are some ideas to get you started:
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [@elonmusk: Raptor 2 now operates routinely at 300 bar main chamber pressure](https://twitter.com/elonmusk/status/1478125263233990657)
+- [@elonmusk:](https://twitter.com/elonmusk/status/1477775713172402176)
+- [@elonmusk: Let’s make the roaring 20’s happen!](https://twitter.com/elonmusk/status/1477706142461706248)
+- [@elonmusk: Hope everyone has a great 2020!“Good stuff 200%” – SJM](https://twitter.com/elonmusk/status/1477701652111052810)
+- [@elonmusk: Great work by Tesla team worldwide!](https://twitter.com/elonmusk/status/1477700424933253123)
 <!-- BLOG-POST-LIST:END -->
 
