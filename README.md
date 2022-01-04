@@ -1,5 +1,7 @@
-### Hi there 👋 I am [Qurban Ahmad](https://www.linkedin.com/in/qurban-ahmad-qur786), This is my Profile.
-### I'm a Full stack developer at [Manufac Analytics](https://www.linkedin.com/company/manufac-analytics).
+## Hi there 👋 This is [Qurban Ahmad](https://www.linkedin.com/in/qurban-ahmad-qur786) and This is my Profile.
+### I'm currently working as a Full stack developer at [Manufac Analytics](https://www.linkedin.com/company/manufac-analytics).
+![](https://visitor-badge.laobi.icu/badge?page_id=qur786.qur786) 
+[![Github](https://img.shields.io/github/followers/qur786?label=Follow&style=social)](https://github.com/qur786)
 <!--
 **qur786/qur786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,5 +43,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/fluency/2x/github.png" alt="github" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+## Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qur786&show_icons=true&theme=tokyonight)
+## Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=tokyonight)
+
 
