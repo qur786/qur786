@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 ## See My latest tweets <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px">
 <!-- BLOG-POST-LIST:START -->
-- [@elonmusk: Raptor 2 now operates routinely at 300 bar main chamber pressure](https://twitter.com/elonmusk/status/1478125263233990657)
-- [@elonmusk:](https://twitter.com/elonmusk/status/1477775713172402176)
-- [@elonmusk: Let’s make the roaring 20’s happen!](https://twitter.com/elonmusk/status/1477706142461706248)
-- [@elonmusk: Hope everyone has a great 2020!“Good stuff 200%” – SJM](https://twitter.com/elonmusk/status/1477701652111052810)
-- [@elonmusk: Great work by Tesla team worldwide!](https://twitter.com/elonmusk/status/1477700424933253123)
+- [@qur67ban: Code,Build,Deploy 😁#Coding #programming #code](https://twitter.com/qur67ban/status/1478211468063428610)
+- [@qur67ban: One of the best thing that a person can do in his #life is to #INVEST.Either invest 1&#39;s time into #learning, getting better, getting physically #fit, creating new things or invest 1&#39;s money into creating new sources of income, creating new #business, contributing to the #Society](https://twitter.com/qur67ban/status/1478082016683823108)
+- [@qur67ban: What a boring life I have, in the time of making fun, messing around with friends, I am sitting at my home surfing internet.😂#HAPPYNEWYEAR2022 #happynewyear2022wishes #NewYear2022](https://twitter.com/qur67ban/status/1477143729110618112)
+- [@qur67ban: A very Happy New year to everyone,🥳🥳🥳May this year bring happiness and prosperity for everybody.🏆#HAPPYNEWYEAR2022 #happynewyear2022wishes #NewYear2022](https://twitter.com/qur67ban/status/1477142210495746052)
+- [@qur67ban: My Goals for 2022 :1. Build / Contribute to great Coding projects. 🔥2. Work and Improve on my 🙋 communication skills.3. Lead at least one Project.🏆4. Be more physically active.🏈5. Read at least one autobiography.#NewYear2022 #newyeargoals #Goals2022 #programming](https://twitter.com/qur67ban/status/1476919084939825152)
 <!-- BLOG-POST-LIST:END -->
 
