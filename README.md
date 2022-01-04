@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=vue)
 
-## See My latest tweets <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px">
+## <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px"> See My latest tweets 
 <!-- BLOG-POST-LIST:START -->
 - [@qur67ban: Code,Build,Deploy 😁#Coding #programming #code](https://twitter.com/qur67ban/status/1478211468063428610)
 - [@qur67ban: One of the best thing that a person can do in his #life is to #INVEST.Either invest 1&#39;s time into #learning, getting better, getting physically #fit, creating new things or invest 1&#39;s money into creating new sources of income, creating new #business, contributing to the #Society](https://twitter.com/qur67ban/status/1478082016683823108)
