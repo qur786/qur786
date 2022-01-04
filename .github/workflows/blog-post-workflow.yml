@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://twitter.com/qur67ban"
+          feed_list: "https://rss.app/feeds/g7oB1mS0NCsOIXiy.xml"
