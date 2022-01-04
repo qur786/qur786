@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 </p>
 
 ## Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qur786&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qur786&show_icons=true&theme=vue)
 ## Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=vue)
 
 
