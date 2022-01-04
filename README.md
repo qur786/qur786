@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/qur786" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluency/2x/github.png" alt="github" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
-<a href="https://www.linkedin.com/company/manufac-analytics" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
+<a href="https://www.linkedin.com/in/qurban-ahmad-qur786" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
 <a href="mailto:ahmad76qurban@gmail.com"> <img src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-gmail-social-media-justicon-flat-justicon.png" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
 <a href="https://twitter.com/qur67ban"> <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
 </p>
