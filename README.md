@@ -55,10 +55,6 @@ Here are some ideas to get you started:
 
 ## <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px"> See My latest tweets 
 <!-- BLOG-POST-LIST:START -->
-- [@qur67ban: This #course covers topics such as why you should learn #NodeJS, setting up #Nodejs, working with dependencies, core modules of #Nodejs, How to create a #WebAPI with #nodejs and #ExpressJS , working with #vscode , #debugging codes, dealing with #vulnerability etc.](https://twitter.com/qur67ban/status/1480217375878180872)
-- [@qur67ban: Hiii, ConnectionsWanna learn #Nodejs from #professional ?Do checkout this awesome mini series #free #course for #beginners from #Microsoft . 💻Link :](https://twitter.com/qur67ban/status/1480217373789487107)
-- [@qur67ban: Anybody who liked to learn #mechanical , #CivilEngineering , #software , #business related courses in #Hindi . Do checkout @LearnVern .Here is the link:](https://twitter.com/qur67ban/status/1478728172157882373)
-- [@qur67ban: Code,Build,Deploy 😁#Coding #programming #code](https://twitter.com/qur67ban/status/1478211468063428610)
-- [@qur67ban: One of the best thing that a person can do in his #life is to #INVEST.Either invest 1&#39;s time into #learning, getting better, getting physically #fit, creating new things or invest 1&#39;s money into creating new sources of income, creating new #business, contributing to the #Society](https://twitter.com/qur67ban/status/1478082016683823108)
+- [[Action required] Your RSS.app Trial has Expired - Tue Jan 11 2022](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
 
