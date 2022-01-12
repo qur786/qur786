@@ -52,9 +52,3 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qur786&show_icons=true&theme=vue)
 ## Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=vue)
-
-## <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px"> See My latest tweets 
-<!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Wed Jan 12 2022](https://rss.app)
-<!-- BLOG-POST-LIST:END -->
-
