@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 ## <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px"> See My latest tweets 
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Tue Jan 11 2022](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Wed Jan 12 2022](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
 
