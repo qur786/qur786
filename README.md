@@ -1,5 +1,11 @@
-## Hi there 👋 This is [Qurban Ahmad](https://www.linkedin.com/in/qurban-ahmad-qur786) and This is my Profile.
-### I'm currently working as a Full stack developer at [Manufac Analytics](https://www.linkedin.com/company/manufac-analytics).
+<h1 align="center">Hi 👋, I'm Qurban</h1>
+<h3 align="center">A passionate frontend developer from India.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qur786" alt="qur786" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/qur67ban" target="blank"><img src="https://img.shields.io/twitter/follow/qur67ban?logo=twitter&style=for-the-badge" alt="qur67ban" /></a> </p>
+
+![](https://komarev.com/ghpvc/?username=qur786&label=Profile%20views&color=0e75b6&style=flat)
 ![](https://visitor-badge.laobi.icu/badge?page_id=qur786.qur786) 
 [![Github](https://img.shields.io/github/followers/qur786?label=Follow&style=social)](https://github.com/qur786)
 <!--
@@ -7,14 +13,28 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ReactJS based Web Apps.
-- 🌱 I’m currently learning about Typescript, DSA, Machine Learning.
-- 👯 I’m looking to collaborate on ReactJS, Machine Learning, Blockchain, Iot based projects.
-- 🤔 I’m looking for help with content creation.
-- 💬 Ask me about anything.
+
+## 👋 About me:
+
+- 🔭 I’m currently working on [A React Template](https://github.com/qur786/react-template-v2)
+
+- 🌱 I’m currently learning **PWA, DSA**
+
+- 👯 I’m looking to collaborate on **React, NodeJS based projects**
+
+- 🤝 I’m looking for help with **React, NodeJS based projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/qur786?tab=repositories](https://github.com/qur786?tab=repositories)
+
+- 📝 I regularly write articles on [https://dev.to/qur786](https://dev.to/qur786)
+
+- 💬 Ask me about **React, Node, AWS**
+
+- 📫 How to reach me **ahmad76qurban@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/qur786](https://github.com/qur786)
 
 ## ✉️ Find me on:
-
 
 <p align="center">
 <a href="https://github.com/qur786" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluency/2x/github.png" alt="github" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
@@ -23,6 +43,11 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/qur67ban"> <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
 </p>
 <br />
+
+## 📄 Read my latest blogs:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🧰 Languages and Tools:
 <p align="center">
