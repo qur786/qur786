@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ## 📄 Read my latest blogs:
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Source Maps: Simplifying Debugging](https://dev.to/qur786/understanding-source-maps-simplifying-debugging-1ikh)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧰 Languages and Tools:
