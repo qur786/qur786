@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [A React Template](https://github.com/qur786/react-template-v2)
 
-- 🌱 I’m currently learning **PWA, DSA**
+- 🌱 I’m currently learning **Next.js, DSA**
 
 - 👯 I’m looking to collaborate on **React, NodeJS based projects**
 
