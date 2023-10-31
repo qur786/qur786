@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 👋 About me:
 
-- 🔭 I’m currently working on [A React Template](https://github.com/qur786/react-template-v2)
+- 🔭 I’m currently working on [Next.js based Dashboard](https://github.com/qur786/nextjs-dashboard)
 
 - 🌱 I’m currently learning **Next.js, DSA**
 
