@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ## 📄 Read my latest blogs:
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Event Loop: A Comprehensive Guide](https://dev.to/qur786/nodejs-event-loop-a-comprehensive-guide-4719)
 - [Revolutionizing React with Server Components: A Game Changer for Performance](https://dev.to/qur786/revolutionizing-react-with-server-components-a-game-changer-for-performance-3p30)
 - [Understanding Source Maps: Simplifying Debugging](https://dev.to/qur786/understanding-source-maps-simplifying-debugging-1ikh)
 <!-- BLOG-POST-LIST:END -->
