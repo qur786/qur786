@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 ## 👋 About me:
 
-- 🔭 I’m currently working on [Next.js based Dashboard](https://github.com/qur786/nextjs-dashboard)
-
-- 🌱 I’m currently learning **Next.js, DSA**
+- 🌱 I’m currently learning **Next.js, DSA, tailwind-CSS**
 
 - 👯 I’m looking to collaborate on **React, NodeJS based projects**
 
