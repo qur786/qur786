@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 👋 About me:
 
-- 🌱 I’m currently learning **Next.js, DSA, tailwind-CSS**
+- 🌱 I’m currently learning **Next.js, React-Native, Socket.io**
 
 - 👯 I’m looking to collaborate on **React, NodeJS, Next.js based projects**
 
