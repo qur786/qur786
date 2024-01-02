@@ -14,70 +14,37 @@
 Here are some ideas to get you started:
 -->
 
-## 👋 About me:
-
-- 🌱 I’m currently learning **Next.js, React-Native, Socket.io**.
-
-- 👯 I’m looking to collaborate on **React, NodeJS, Next.js, React-Native projects**.
-
-- 🤝 I’m looking for help with **React, NodeJS, Next.js, React-Native projects**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/qur786?tab=repositories](https://github.com/qur786?tab=repositories).
-
-- 📝 I regularly write articles on [https://dev.to/qur786](https://dev.to/qur786).
-
-- 💬 Ask me about **React, Node, AWS, Next.js, React-Native, Next.js**.
-
-- 📫 How to reach me **ahmad76qurban@gmail.com**
-
+# 💫 About Me:
+- 🌱 I’m currently learning **Next.js, React-Native, Socket.io**.<br>
+- 👯 I’m looking to collaborate on **React, NodeJS, Next.js, React-Native projects**.<br>
+- 🤝 I’m looking for help with **React, NodeJS, Next.js, React-Native projects**.<br>
+- 👨‍💻 All of my projects are available at [https://github.com/qur786?tab=repositories](https://github.com/qur786?tab=repositories).<br>
+- 📝 I regularly write articles on [https://dev.to/qur786](https://dev.to/qur786).<br>
+- 💬 Ask me about **React, Node, AWS, Next.js, React-Native, Next.js**.<br>
+- 📫 How to reach me **ahmad76qurban@gmail.com**<br>
 - 📄 Know about my experiences [https://github.com/qur786](https://github.com/qur786)
 
-## ✉️ Find me on:
 
-<p align="center">
-<a href="https://github.com/qur786" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluency/2x/github.png" alt="github" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
-<a href="https://www.linkedin.com/in/qurban-ahmad-qur786" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
-<a href="mailto:ahmad76qurban@gmail.com"> <img src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-gmail-social-media-justicon-flat-justicon.png" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
-<a href="https://twitter.com/qur67ban"> <img src="https://img.icons8.com/fluency/2x/twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
-</p>
-<br />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qurban-ahmad-qur786) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fantasticnerd67) 
 
-## 📄 Read my latest blogs:
+# 💻 Tech Stack:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=qur786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=qur786&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- BLOG-POST-LIST:START -->
-- [Node.js Event Loop: A Comprehensive Guide](https://dev.to/qur786/nodejs-event-loop-a-comprehensive-guide-4719)
-- [Revolutionizing React with Server Components: A Game Changer for Performance](https://dev.to/qur786/revolutionizing-react-with-server-components-a-game-changer-for-performance-3p30)
-- [Understanding Source Maps: Simplifying Debugging](https://dev.to/qur786/understanding-source-maps-simplifying-debugging-1ikh)
-<!-- BLOG-POST-LIST:END -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=qur786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="ExpressJS" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://img.icons8.com/fluency/2x/github.png" alt="github" height="40" style="vertical-align:top; margin:4px">&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Git" height="40" style="vertical-align:top; margin:4px">&nbsp
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">&nbsp
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL" height="40" style="vertical-align:top; margin:4px">&nbsp
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">&nbsp
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" alt="Electron.js" height="40" style="vertical-align:top; margin:4px">&nbsp
-</p>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qur786&show_icons=true&theme=vue)
-## Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=vue)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=qur786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=qur786&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
