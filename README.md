@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 
 ## 👋 About me:
 
-- 🌱 I’m currently learning **Next.js, React-Native, Socket.io**
+- 🌱 I’m currently learning **Next.js, React-Native, Socket.io**.
 
-- 👯 I’m looking to collaborate on **React, NodeJS, Next.js based projects**
+- 👯 I’m looking to collaborate on **React, NodeJS, Next.js, React-Native projects**.
 
-- 🤝 I’m looking for help with **React, NodeJS, Next.js based projects**
+- 🤝 I’m looking for help with **React, NodeJS, Next.js, React-Native projects**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/qur786?tab=repositories](https://github.com/qur786?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/qur786?tab=repositories](https://github.com/qur786?tab=repositories).
 
-- 📝 I regularly write articles on [https://dev.to/qur786](https://dev.to/qur786)
+- 📝 I regularly write articles on [https://dev.to/qur786](https://dev.to/qur786).
 
-- 💬 Ask me about **React, Node, AWS, Next.js**
+- 💬 Ask me about **React, Node, AWS, Next.js, React-Native, Next.js**.
 
 - 📫 How to reach me **ahmad76qurban@gmail.com**
 
