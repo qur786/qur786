@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=qur786&limit=10&theme=light&combine_all_yearly_contributions=false)
+![](https://github-contributor-stats.vercel.app/api?username=qur786&limit=4&theme=light&combine_all_yearly_contributions=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
