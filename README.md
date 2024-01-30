@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [https://dev.to/qur786](https://dev.to/qur786).<br>
 - 💬 Ask me about **React, Node, AWS, Next.js, React-Native, Next.js**.<br>
 - 📫 How to reach me **ahmad76qurban@gmail.com**.<br>
-- 📄 Know about my experiences [https://github.com/qur786](https://github.com/qur786).
+- 📄 Know about my experiences [portfolio](https://qur786.github.io/portfolio/).
 
 
 ## 📄 Read my latest blogs:
