@@ -8,12 +8,6 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Today's quote">
-</p>
-
 <!--
 **qur786/qur786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
