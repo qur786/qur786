@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **Next.js, React-Native, Socket.io**.<br>
-- 👯 I’m looking to collaborate on any type of projects.<br>
 - 👨‍💻 All of my projects are available at [https://github.com/qur786?tab=repositories](https://github.com/qur786?tab=repositories).<br>
 - 📝 I regularly write articles on [https://dev.to/qur786](https://dev.to/qur786).<br>
 - 💬 Ask me about **React, Node, AWS, Next.js, React-Native, Next.js**.<br>
