@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qurban</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00C2FF&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node+%7C+AWS+%7C+TypeScript;Passionate+about+Innovation+%26+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=100&color=00C2FF&center=true&width=435&lines=Full+Stack+Developer;React;Node;Express;MongoDB;Angular;Tailwind+CSS;AWS;TypeScript;Passionate+about+Innovation+%26+Learning" alt="Typing SVG">
 </p>
 
 <p align="center">
