@@ -44,14 +44,14 @@
   </a>
 </p>
 
----
+<!---
 
 ## 🏆 Achievements:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=qur786&theme=radical&no-frame=true&margin-w=5&row=1&column=7" alt="GitHub Trophies">
 </p>
 
----
+--->
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -62,22 +62,20 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qur786&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=qur786&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qur786&theme=radical&hide_border=false" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qur786&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> ==>
 </div>
 
----
+<!---
 
 ## 🔝 Top Contributed Repo:
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=qur786&limit=4&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributions">
 </p>
 
----
+--->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/qur786/qur786/main/code.gif" alt="Coding Animation" width="500">
 </p>
-
-<p align="center">✨ Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> ✨</p>
